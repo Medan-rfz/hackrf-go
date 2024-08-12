@@ -1,7 +1,7 @@
 package hackrf
 
 import (
-	"hackrf-driver/internal/helpers"
+	"github.com/Medan-rfz/hackrf-go/internal/helpers"
 
 	"github.com/google/gousb"
 )

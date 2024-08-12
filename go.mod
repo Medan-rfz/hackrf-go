@@ -1,4 +1,4 @@
-module hackrf-driver
+module github.com/Medan-rfz/hackrf-go
 
 go 1.22
 
